@@ -9,7 +9,7 @@ public class Coffee {
         conc = c;
     }
 
-    //getters
+    //getters, obtinem valorile
     public int getTemp() {
         return temp;
     }
@@ -18,7 +18,7 @@ public class Coffee {
         return conc;
     }
 
-    //toString
+    //toString  este pt display
 
 
     @Override
